@@ -3,8 +3,8 @@
 t-saito@MacBookPronoMacBook-Pro flask-mysql-restful-api-on-docker]$ pwd
 /Users/t-saito/flask-mysql-restful-api-on-docker
 
-
-
+<h2>参照</h2>
+PythonのFlaskでMySQLを利用したRESTfulなAPIをDocker環境で実装する
 
 
 # flask-mysql-restful-on-docker
