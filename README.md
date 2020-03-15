@@ -1,4 +1,5 @@
-Local:
+<h2>Local:</h2>
+
 t-saito@MacBookPronoMacBook-Pro flask-mysql-restful-api-on-docker]$ pwd
 /Users/t-saito/flask-mysql-restful-api-on-docker
 
